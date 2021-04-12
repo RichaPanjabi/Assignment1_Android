@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="greet">Welcome to Android Development Class</string>
+    <string name="disp">VIEW LIST</string>
+</resources>
